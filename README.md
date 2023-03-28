@@ -17,5 +17,3 @@
 1.程式語言 : HTML、JavaScript、PHP  
 2.資料庫 : MySQL  
 3.伺服器架設 : XAMPP(Apache)  
-
-## 用戶端介紹

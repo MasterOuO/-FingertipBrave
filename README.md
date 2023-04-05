@@ -17,3 +17,21 @@
 1.程式語言 : HTML、JavaScript、PHP  
 2.資料庫 : MySQL  
 3.伺服器架設 : XAMPP(Apache)  
+
+## 使用者介面介紹
+### 首頁
+首頁為會員登入，需進行登入才可以開始進行遊玩。  
+<img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/localhost_game_login.php.png" width="500px">
+### 會員註冊
+沒有登入的帳號可以進行會員註冊，填寫相對應的個人資料完成註冊。  
+<img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/localhost_game_register.php.png" width="500px">
+### 關卡選擇
+登入後，可以選擇遊戲挑戰的難易度。  
+<img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/localhost_game_index.php.png" width="500px">
+### 遊戲畫面
+在時間內，根據題目的指令，輸入鍵盤的'上下左右'鍵來完成題目。  
+<img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/image.png" width="500px">
+<img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/localhost_game_settlement.php_value%3D60%20(1).png" width="500px">
+###排行榜
+完成挑戰後，如果分數位在前十名內，則會榮登排行榜。
+<img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/localhost_game_leaderboard.php.png" width="500px">

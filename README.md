@@ -30,8 +30,9 @@
 <img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/localhost_game_index.php.png" width="500px">
 ### 遊戲畫面
 在時間內，根據題目的指令，輸入鍵盤的'上下左右'鍵來完成題目。  
-<img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/image.png" width="500px">
+<img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/image.png" width="500px">  
 <img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/localhost_game_settlement.php_value%3D60%20(1).png" width="500px">
-###排行榜
-完成挑戰後，如果分數位在前十名內，則會榮登排行榜。
+### 玩家分數&排行榜
+完成挑戰後，如果分數位在前十名內，則將榮登排行榜。  
+<img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/userdata.png" width="500px">  
 <img src="https://github.com/MasterOuO/FingertipBrave/blob/main/show/localhost_game_leaderboard.php.png" width="500px">
